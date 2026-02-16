@@ -71,6 +71,8 @@ Each contributor is credited with the specific components, tasks, or deliverable
 
 | Contributor | Role / Focus Area | Owned Deliverables |
 |------------|------------------|--------------------|
+| Lochit-Vinay (@Lochit-Vinay) | Data / Research | Added publicly available African government budget PDFs for testing; documented official source URLs (PR #8) |
+
 | Name / GitHub | Backend, Frontend, Data, Infra, Research | Clearly scoped features, services, or setup tasks |
 | Divyanshu-Off | Infra | CI/CD pipeline for the project |
 | Divyanshu-Off | Backend, Infra | Containerization of parsing environment (Docker & Compose), FastAPI scaffolding, and contributor documentation |
